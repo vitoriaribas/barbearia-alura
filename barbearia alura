@@ -89,3 +89,22 @@ ul {
 	width: 50%;
 }
 
+
+
+
+<!DOCTYPE html>
+<hml>
+    <head>
+         <meta charset="UTF-8">
+         <title>Produtos - barbearia alura </title>
+         <link rel="stylesheet" href="Produtos.css>"
+     </head>
+     <body>
+         <header>
+            <h1><img src="logo.png"></h1>
+
+            
+        </header>
+     </body>
+</hml>
+
